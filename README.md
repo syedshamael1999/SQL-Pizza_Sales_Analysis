@@ -34,8 +34,8 @@ The `Pizza_Sales_Analysis_Report.md` contains:
 SQL-Pizza-Sales-Analysis/
 │── README.md  # Project overview
 │── SQL_Queries.md  # SQL queries used for analysis
-│── Pizza_Sales_Analysis_Report.md  # Business insights & recommendations
-│── Pizza_Sales_Analysis.ipynb  # SQL Notebook with executed queries  
+│── Pizza_Sales_Analysis.ipynb  # SQL Notebook with executed queries 
+│── Pizza_Sales_Analysis_Report.md  # Business insights & recommendations 
 │── Datasets/  # Raw dataset files
 │   ├── pizza_sales.csv
 ```
