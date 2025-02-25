@@ -20,11 +20,13 @@ The `Pizza_Sales_Analysis_Report.md` contains:
 
 ## 📜 What's Included?  
 📂 **SQL Queries (`SQL_Queries.md`)** – All SQL scripts used for analysis.  
+📓 **SQL Notebook (`Pizza_Sales_Analysis.ipynb`)** – SQL notebook with executed queries & results.  
 📄 **Full Business Report (`Pizza_Sales_Analysis_Report.md`)** – Summarized insights & recommendations.  
-📊 **Dataset (`pizza_sales.csv`)** – Raw pizza sales data.  
+📊 **Dataset (`pizza_sales.csv`)** – Raw pizza sales data. 
 
 ## 🛠 Tools Used  
-- **MS SQL Server** – Query execution & data analysis  
+- **MS SQL Server** – Query execution & data analysis
+- **Azure Data Studio** – SQL Notebook creation & execution  
 - **GitHub** – Version control & documentation  
 
 ## 📁 Repository Structure  
@@ -33,14 +35,17 @@ SQL-Pizza-Sales-Analysis/
 │── README.md  # Project overview
 │── SQL_Queries.md  # SQL queries used for analysis
 │── Pizza_Sales_Analysis_Report.md  # Business insights & recommendations
+│── Pizza_Sales_Analysis.ipynb  # SQL Notebook with executed queries  
 │── Datasets/  # Raw dataset files
 │   ├── pizza_sales.csv
 ```
 
 ## 📌 How to Use  
-1️⃣ **Download the dataset** (`pizza_sales.csv`) and import it into **MS SQL Server**.  
-2️⃣ **Run SQL queries** from **`SQL_Queries.md`** to generate insights.  
-3️⃣ **Read the full report** in **`Pizza_Sales_Analysis_Report.md`** for detailed analysis.  
+1️⃣ **Download the dataset** [`pizza_sales.csv`](pizza_sales.csv) and import it into **MS SQL Server**.  
+2️⃣ **Run SQL queries** from **[`SQL_Queries.md`](SQL_Queries.md)** to generate insights.  
+3️⃣ **Explore the notebook** in **[`Pizza_Sales_Analysis.ipynb`](Pizza_Sales_Analysis.ipynb)**.  
+4️⃣ **Read the full report** in **[`Pizza_Sales_Analysis_Report.md`](Pizza_Sales_Analysis_Report.md)** for detailed analysis.  
+ 
 
-📄 **[View Full SQL Queries](SQL_Queries.md)** | 📊 **[Read Business Report](Pizza_Sales_Analysis_Report.md)**  
+📄 **[View Full SQL Queries](SQL_Queries.md)** | 📊 **[Read Business Report](Pizza_Sales_Analysis_Report.md)** | 📓 **[View SQL Notebook](Pizza_Sales_Analysis.ipynb)** 
 
