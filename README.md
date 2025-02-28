@@ -47,5 +47,5 @@ SQL-Pizza-Sales-Analysis/
 4️⃣ **Read the full report** in **[`Pizza_Sales_Analysis_Report.md`](Pizza_Sales_Analysis_Report.md)** for detailed analysis.  
  
 
-📄 **[View Full SQL Queries](SQL_Queries.md)** | 📊 **[Read Business Report](Pizza_Sales_Analysis_Report.md)** | 📓 **[View SQL Notebook](Pizza_Sales_Analysis.ipynb)** 
+📄 **[View Full SQL Queries](SQL_Queries.md)** | 📊 **[Read Analysis Report](Pizza_Sales_Analysis_Report.md)** | 📓 **[View SQL Notebook](Pizza_Sales_Analysis.ipynb)** 
 
