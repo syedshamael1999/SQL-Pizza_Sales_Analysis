@@ -40,6 +40,7 @@ FROM pizza_sales
 
 ### Hourly Trend for total orders
 ```sql
+--DATEPART() to extract hour from order_time
 SELECT DATEPART(HOUR, order_time) AS Order_hours, COUNT(DISTINCT order_id) 
 AS Total_Orders
 FROM pizza_sales
