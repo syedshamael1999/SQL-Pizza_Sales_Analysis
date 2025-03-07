@@ -40,7 +40,7 @@ SQL-Pizza-Sales-Analysis/
 │   ├── pizza_sales.csv
 ```
 
-## 📌 How to Use  
+## 📌 If You Want to Validate My Queries
 1️⃣ **Download the dataset** [`pizza_sales.csv`](pizza_sales.csv) and import it into **MS SQL Server**.  
 2️⃣ **Run SQL queries** from **[`SQL_Queries.md`](SQL_Queries.md)** to generate insights.  
 3️⃣ **Explore the notebook** in **[`Pizza_Sales_Analysis.ipynb`](Pizza_Sales_Analysis.ipynb)**.  
