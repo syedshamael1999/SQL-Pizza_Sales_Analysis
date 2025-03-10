@@ -124,3 +124,4 @@ GROUP BY pizza_name
 ORDER BY Total_Orders ASC
 ```
 
+📊 **[Read Analysis Report](Pizza_Sales_Analysis_Report.md)** | 📓 **[View SQL Notebook](Pizza_Sales_Analysis.ipynb)** 
