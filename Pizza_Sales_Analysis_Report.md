@@ -67,3 +67,4 @@
 ✔ **Seasonal Strategy for Low-Sales Weeks** – Targeting **Weeks 52-53** with limited-time offers could help maintain sales momentum.  
 
 
+📄 **[View Full SQL Queries](SQL_Queries.md)**  | 📓 **[View SQL Notebook](Pizza_Sales_Analysis.ipynb)** 
