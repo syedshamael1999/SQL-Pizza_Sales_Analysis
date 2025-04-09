@@ -1,4 +1,4 @@
-# 🍕 SQL Pizza Sales Analysis  
+# SQL Sales Analysis  
 
 ## 📌 Overview  
 This project analyzes **pizza sales data** using **MS SQL Server**, focusing on **key performance indicators (KPIs), sales trends, and best-selling products**. The dataset contains detailed order records, including **order dates, times, pizza names, categories, sizes, quantities, unit prices, and total prices**. This analysis helps in understanding **customer purchasing behavior, revenue distribution, and sales trends**.  
